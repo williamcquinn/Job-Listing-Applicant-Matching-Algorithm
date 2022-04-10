@@ -1,0 +1,2 @@
+# Job-Resume-Matching-ML-Algorithm
+Resumatch: Built a resume to job matching algorithm, that output optimal jobs tailored to your resume depending on desired location. For this project, current Data Scientist jobs were scraped off of Indeed. We used NLP to match keywords from a created dictionary, and the dashboard also recommended key words to strengthen the input resume for the recommended positions.
