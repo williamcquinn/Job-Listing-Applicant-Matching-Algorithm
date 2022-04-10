@@ -1,6 +1,14 @@
 # Job-Resume-Matching-ML-Algorithm
 Resumatch: Built a resume to job matching algorithm, that output optimal jobs tailored to your resume depending on desired location, desired industry, and key words. Created an easy-to-use interface with R Shiny where the user could upload their resume, visualize the number of positions in the desired U.S. region, and receive match scores for optimal job titles as well as feedback on recommended keywords to include in the resume to increase their visibility in the application process for highly scored job titles. 
 
+The job search is a daunting task, there are a variety of employment websites, that once you have uploaded your resume, share a long list of jobs that the user must dig through to find something even close to compatible. In personal experience, we have struggled with determining the legitimacy of these matches and we all have experience with the sponsored emails from sites like ZipRecruiter and Monster that seem more like a shot in the dark than a realistic recommendation to apply to.
+
+Even if you are not actively looking for a job, just knowing where your resume stands in relation to what companies are looking for in a job candidate can help you prepare for when you start searching. Recent graduates like us need all the information we can to effectively plan our next step, having a clear picture about the state of the industry in terms of the geographic location of job offerings can help us plan for possible relocation in the near future.
+
+The goal of this project was to create an easy to use interface where the user can upload their resume, visualize the number of positions in U.S. regions related to the data science industry, and receive the top sectors, industries, and job listings that match their skills and experience written in their resume.
+
+Not only that, this product also offers the user descriptive feedback on which keywords to include in their resume, which would more closely match their resumes to the job descriptions of their desired positions in their application process.
+
 **Data**
 
 Three datasets from Glassdoor and one dataset from Indeed found on Kaggle were used to demonstrate technical viability. With more time a webscraping script would have been employed to access live positions on Indeed. The processing data was composed of 10,000+ jobs and relevant variables were "Job Title", "Job Description", "Location", and "Sector". Stop words and common words were excluded and the data was grouped by job title, location, and sector.
