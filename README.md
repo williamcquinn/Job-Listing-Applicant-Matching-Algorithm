@@ -1,5 +1,5 @@
 # Job-Resume-Matching-ML-Algorithm
-Resumatch: Built a resume to job matching algorithm, that output optimal jobs tailored to your resume depending on desired location, desired industry, and key words. Created an easy-to-use interface with R Shiny where the user could upload their resume, visualize the number of positions in the desired U.S. region. 
+Resumatch: Built a resume to job matching algorithm, that output optimal jobs tailored to your resume depending on desired location, desired industry, and key words. Created an easy-to-use interface with R Shiny where the user could upload their resume, visualize the number of positions in the desired U.S. region, and receive match scores for optimal job titles as well as feedback on recommended keywords to include in the resume to increase their visibility in the application process for highly scored job titles. 
 
 **Data**
 
