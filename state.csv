@@ -1,0 +1,495 @@
+Location,Region
+"Salt Lake City, UT",Mountain
+"Los Angeles, CA",West
+"Dallas, TX",Midwest
+"Austin, TX",Midwest
+"Burbank, CA",West
+"Chicago, IL",Central
+"Collegeville, PA",North East
+"Houston, TX",Midwest
+"New York, NY",North East
+"Rosemont, IL",Central
+"San Diego, CA",West
+"San Jose, CA",West
+"San Antonio, TX",Midwest
+"Glendale, CA",West
+"Dresher, PA",North East
+"Philadelphia, PA",North East
+"Malvern, PA",North East
+"Pleasanton, CA",West
+"Jacksonville, FL",South East
+"Phoenix, AZ",Mountain
+"Charlotte, NC",South East
+"Columbus, OH",Central
+"Deerfield, IL",Central
+"San Francisco, CA",West
+"Santa Clara, CA",West
+"Seattle, WA",West
+"Harrison, NY",North East
+"Richardson, TX",Midwest
+"Moorestown, NJ",South East
+"Scottsdale, AZ",Mountain
+"Newport News, VA",South East
+"Irving, TX",Midwest
+"Arlington Heights, IL",Central
+"Culver City, CA",West
+"Arcadia, CA",West
+"El Segundo, CA",West
+"Torrance, CA",West
+"Redondo Beach, CA",West
+"Rolling Meadows, IL",Central
+"Littleton, CO",Mountain
+"Kent, WA",West
+"Fort Worth, TX",Midwest
+"Yorktown, VA",South East
+"Norfolk, VA",South East
+"Lackland AFB, TX",Midwest
+"Woodland Hills, CA",West
+"Englewood, CO",Mountain
+"Orange Park, FL",South East
+"Long Beach, CA",West
+"Hampton, VA",South East
+"Ridley Park, PA",North East
+"Wilmington, CA",West
+"El Cajon, CA",West
+"Jersey City, NJ",South East
+"Plymouth Meeting, PA",North East
+"Wayne, PA",North East
+"Radnor, PA",North East
+"Tempe, AZ",Mountain
+"West Point, PA",North East
+"Palo Alto, CA",West
+"King of Prussia, PA",North East
+"Sunnyvale, CA",West
+"Swedesboro, NJ",South East
+"Menlo Park, CA",West
+"Fort Washington, PA",North East
+"East Norriton, PA",North East
+"Florham Park, NJ",South East
+"Santa Monica, CA",West
+"South San Francisco, CA",West
+"Northridge, CA",West
+"Wilmington, DE",North East
+"Redwood City, CA",West
+"Mesa, AZ",Mountain
+"Hercules, CA",West
+"Emeryville, CA",West
+"Berkeley Heights, NJ",South East
+"Blue Bell, PA",North East
+"Mountain View, CA",West
+"South Houston, TX",Midwest
+"Denver, CO",Mountain
+"Hilliard, OH",Central
+"Greenwood Village, Arapahoe, CO",Mountain
+"Mount Laurel, NJ",South East
+"Fort Mill, SC",South East
+"Oak Brook, IL",Central
+"Ambler, PA",North East
+"Arlington, TX",Midwest
+"Brooklyn, NY",North East
+"Chandler, AZ",Mountain
+"Conshohocken, PA",North East
+"DC Ranch, AZ",Mountain
+"Fremont, CA",West
+"Lake Hiawatha, NJ",South East
+"Livermore, CA",West
+"Madison, NJ",South East
+"Media, PA",North East
+"Monterey Park, CA",West
+"Newark, NJ",South East
+"Pasadena, CA",West
+"Plano, TX",Midwest
+"Round Rock, TX",Midwest
+"Weehawken, NJ",South East
+"Westminster, CA",West
+"Des Plaines, IL",Central
+"Cherry Hill, NJ",South East
+"Rosemead, CA",West
+"Ponte Vedra Beach, FL",South East
+"Oakbrook Terrace, IL",Central
+"Spring, TX",Midwest
+"Foster City, CA",West
+"Lansdale, PA",North East
+"Newark, CA",West
+"Indianapolis, IN",Central
+"Lakewood, CO",Mountain
+"Suffolk, VA",South East
+"La Jolla, CA",West
+"Brea, CA",West
+"Coppell, TX",Midwest
+"Downers Grove, IL",Central
+"Summit, NJ",South East
+"West Menlo Park, CA",West
+"Woodridge, IL",Central
+"Centennial, CO",Mountain
+"Woodcliff Lake, NJ",South East
+"Mayport, FL",South East
+"Renton, WA",West
+"Whippany, NJ",South East
+"Allegheny West, PA",North East
+"Boulder, CO",Mountain
+"Camden, NJ",South East
+"Chesapeake, VA",South East
+"Chester Township, PA",North East
+"Cupertino, CA",West
+"Daly City, CA",West
+"Evanston, IL",Central
+"Grapevine, TX",Midwest
+"Haworth, NJ",South East
+"Hermosa Beach, CA",West
+"Horsham, PA",North East
+"Irwindale, CA",West
+"Kirkland, WA",West
+"Lake Success, NY",North East
+"Little Ferry, NJ",South East
+"Mount Vernon, NY",North East
+"Northbrook, IL",Central
+"Paoli, PA",North East
+"Parsippany, NJ",South East
+"Portsmouth, VA",South East
+"Reedley, CA",West
+"San Mateo, CA",West
+"San Ramon, CA",West
+"Oakland, CA",West
+"Azusa, CA",West
+"Virginia Beach, VA",South East
+"Pico Rivera, CA",West
+"Boothwyn, PA",North East
+"Cerritos, CA",West
+"Redmond, WA",West
+"Itasca, IL",Central
+"Exton, PA",North East
+"Queens Village, NY",North East
+"Pasadena, TX",Midwest
+"Elk Grove Village, IL",Central
+"Feasterville Trevose, PA",North East
+"Fort Eustis, VA",South East
+"Mooresville, NC",South East
+"Sugar Land, TX",Midwest
+"Spring House, PA",North East
+"Campbell, CA",West
+"Glendale, AZ",Mountain
+"Artesia, CA",West
+"Addison, TX",Midwest
+"Milpitas, CA",West
+"Cypress, TX",Midwest
+"Grand Prairie, TX",Midwest
+"Berwyn, PA",North East
+"North Hollywood, CA",West
+"Riverton, UT",Mountain
+"Louisville, CO",Mountain
+"Westerville, OH",Central
+"Villa Park, IL",Central
+"Hoboken, NJ",South East
+"Alameda, CA",West
+"San Rafael, CA",West
+"Westlake, TX",Midwest
+"University Park, TX",Midwest
+"Walnut Creek, CA",West
+"City of Industry, CA",West
+"Southlake, TX",Midwest
+"Burr Ridge, IL",Central
+"Fairfield, NJ",South East
+"Indian Trail, NC",South East
+"Roanoke, TX",Midwest
+"Sun Valley, CA",West
+"Alviso, CA",West
+"Stanford, CA",West
+"West Chester, PA",North East
+"La Mirada, CA",West
+"Gainesville, FL",South East
+"Visalia, CA",West
+"Berkeley, CA",West
+"Lombard, IL",Central
+"Garland, TX",Midwest
+"Buena Park, CA",West
+"Athens, GA",South East
+"Alhambra, CA",West
+"Beverly Hills, CA",West
+"Iselin, NJ",South East
+"Carrollton, TX",Midwest
+"Lewisville, TX",Midwest
+"Seal Beach, CA",West
+"Fort Sam Houston, TX",Midwest
+"Anaheim, CA",West
+"Fort Lee, NJ",South East
+"Lone Tree, CO",Mountain
+"Marlton, NJ",South East
+"Woodbridge, NJ",South East
+"Riverside, NJ",South East
+"Farmers Branch, TX",Midwest
+"Jeffersonville, IN",Central
+"Bala Cynwyd, PA",North East
+"Burlingame, CA",West
+"Downey, CA",West
+"Glendale Luke AFB, AZ",Mountain
+"Tarrant, TX",Midwest
+"Coronado, CA",West
+"Manhasset, NY",North East
+"Sylmar, CA",West
+"Gardena, CA",West
+"Pearland, TX",Midwest
+"Staten Island, NY",North East
+"Marin City, CA",West
+"West Conshohocken, PA",North East
+"West Orange, NJ",South East
+"Aurora, CO",Mountain
+"Inglewood, CA",West
+"Alachua, FL",South East
+"Scotts Valley, CA",West
+"Maywood, IL",Central
+"Whittier, CA",West
+"Duarte, CA",West
+"Chesterbrook, PA",North East
+"Bronx, NY",North East
+"Secaucus, NJ",South East
+"Broomfield, CO",Mountain
+"Union City, CA",West
+"Beech Grove, IN",Central
+"Allen, TX",Midwest
+"Bloomingdale, IL",Central
+"Bolingbrook, IL",Central
+"Commerce, CA",West
+"El Monte, CA",West
+"Hawthorne, CA",West
+"Ridgefield Park, NJ",South East
+"Rutherford, NJ",South East
+"South Plainfield, NJ",South East
+"Union, NJ",South East
+"Stickney, IL",Central
+"Oaks, PA",North East
+"Little Falls, NJ",South East
+"Highland Park, IL",Central
+"Harrison, NJ",South East
+"Matawan, NJ",South East
+"Bensalem, PA",North East
+"Huntersville, NC",South East
+"Trevose, PA",North East
+"Morgan Hill, CA",West
+"Rossmoor, CA",West
+"Lyndhurst, NJ",South East
+"Stafford, TX",Midwest
+"Bellevue, WA",West
+"American Fork, UT",Mountain
+"Burlingame, KS",Midwest
+"Franklin Lakes, NJ",South East
+"Dublin, OH",Central
+"Norristown, PA",North East
+"Lehi, UT",Mountain
+"Lisle, IL",Central
+"Montvale, NJ",South East
+"Topeka, KS",Midwest
+"Draper, UT",Mountain
+"East Palo Alto, CA",West
+"Los Gatos, CA",West
+"Venice, CA",West
+"Jacksonville Beach, FL",South East
+"Calabasas, CA",West
+"Signal Hill, CA",West
+"Bedford, TX",Midwest
+"West Hills, CA",West
+"Carmel, IN",Central
+"Newtown Square, PA",North East
+"Rego Park, NY",North East
+"Glenview, IL",Central
+"Broadview, IL",Central
+"Alsip, IL",Central
+"La Palma, CA",West
+"Livingston, NJ",South East
+"Audubon, PA",North East
+"Bridgeview, IL",Central
+"West Jordan, UT",Mountain
+"Northfield, IL",Central
+"Hackensack, NJ",South East
+"Smithfield, VA",South East
+"Placentia, CA",West
+"Marina del Rey, CA",West
+"Novato, CA",West
+"Hollywood, CA",West
+"Alpine, CA",West
+"Essex Fells, NJ",South East
+"Long Island City, NY",North East
+"Hanford, CA",West
+"Park Ridge, IL",Central
+"Millbrae, CA",West
+"Henderson, CO",Mountain
+"Moonachie, NJ",South East
+"Santa Fe Springs, Los Angeles, CA",West
+"Issaquah, WA",West
+"Burlington, NJ",South East
+"Doylestown, PA",North East
+"Lawrence, IN",Central
+"Northlake, IL",Central
+"Bristol, PA",North East
+"Whitestown, IN",Central
+"Cedar Park, TX",Midwest
+"Jericho, NY",North East
+"North Kansas City, MO",Midwest
+"Baltimore, MD",North East
+"Reston, VA",South East
+"Dayton, OH",Central
+"Birmingham, AL",Central
+"Atlanta, GA",South East
+"Ogden, UT",Mountain
+"Chantilly, VA",South East
+"Chattanooga, TN",South East
+"Sheboygan, WI",Central
+"Yardley, PA",North East
+"East Alton, IL",Central
+"Tucson, AZ",Mountain
+"Boston, MA",North East
+"McLean, VA",South East
+"Cambridge, MA",North East
+"Alexandria, VA",South East
+"Fayetteville, NC",South East
+"Hartford, CT",North East
+"Melbourne, FL",South East
+"Springfield, VA",South East
+"Lexington, MA",North East
+"Ewing, NJ",South East
+"Woodlawn, MD",North East
+New Jersey,South East
+"Brookfield, WI",Central
+"Chubbuck, ID",Mountain
+"Linthicum Heights, MD",North East
+"Boise, ID",Mountain
+"Providence, RI",North East
+"Raleigh, NC",South East
+"Port Washington, NY",North East
+"Columbia, SC",South East
+"Vienna, VA",South East
+"Tualatin, OR",West
+"Laurel, MD",North East
+"Morrisville, NC",South East
+"Cincinnati, OH",Central
+"Golden Valley, MN",Central
+"Glens Falls, NY",North East
+"Woburn, MA",North East
+"Orlando, FL",South East
+"Gaithersburg, MD",North East
+"Timonium, MD",North East
+"Saint Louis, MO",Midwest
+"Boca Raton, FL",South East
+"Miami, FL",South East
+"Ann Arbor, MI",Central
+"Des Moines, IA",Central
+"Sandpoint, ID",Mountain
+"Richland, WA",West
+"Rochester, NY",North East
+Virginia,South East
+"Arlington, VA",South East
+"Pittsburgh, PA",North East
+"West Palm Beach, FL",South East
+"Chevy Chase, MD",North East
+"Madison, WI",Central
+"Yakima, WA",West
+"Detroit, MI",Central
+"Annapolis Junction, MD",North East
+"Waterbury, CT",North East
+"Washington, DC",North East
+"Columbia, MD",North East
+"Pomona, CA",West
+"Somerset, NJ",South East
+"Lake Mary, FL",South East
+"North Reading, MA",North East
+"Colorado Springs, CO",Mountain
+"Herndon, VA",South East
+"Norwalk, CT",North East
+"Syracuse, NY",North East
+"Carthage, MO",Midwest
+"Huntsville, AL",Central
+"Sacramento, CA",West
+"Pennington, NJ",South East
+"Orange, CA",West
+"Morristown, NJ",South East
+"Carlsbad, CA",West
+"Bethesda, MD",North East
+Alabama,Central
+"Fairfax, VA",South East
+"Brentwood, TN",South East
+"Agoura Hills, CA",West
+"Portland, OR",West
+"Stamford, CT",North East
+"Waltham, MA",North East
+Utah,Mountain
+"Monmouth Junction, NJ",South East
+"Minneapolis, MN",Central
+"Green Bay, WI",Central
+"Aliso Viejo, CA",West
+"Waco, TX",Midwest
+"Naperville, IL",Central
+"Fort Belvoir, VA",South East
+"Cheyenne, WY",Midwest
+"Eden Prairie, MN",Central
+"Holyoke, MA",North East
+"Charlottesville, VA",South East
+"Tysons Corner, VA",South East
+"Irvine, CA",West
+"Vista, CA",West
+"Fort Lauderdale, FL",South East
+"Basking Ridge, NJ",South East
+"Dulles, VA",South East
+"Santa Ana, CA",West
+"Allen Park, MI",Central
+"Burlington, MA",North East
+"Ashburn, VA",South East
+"Burlington, VT",North East
+"San Carlos, CA",West
+"Greensboro, NC",South East
+"Silver Spring, MD",North East
+"Wright Patterson AFB, OH",Central
+"Wellesley, MA",North East
+"Gold River, CA",West
+"Princeton, NJ",South East
+"Rosslyn, VA",South East
+"Milwaukee, WI",Central
+"Nashville, TN",South East
+California,West
+"Fort Myers, FL",South East
+"Farmington Hills, MI",Central
+"Falls Church, VA",South East
+"Odon, IN",Central
+"New London, CT",North East
+Maryland,North East
+"Logan, UT",Mountain
+"Kansas City, MO",Midwest
+"Aberdeen, MD",North East
+"Naples, FL",South East
+"Simi Valley, CA",West
+"Aurora, IL",Central
+"Newton, MA",North East
+"Santa Barbara, CA",West
+"Capital Hill, CA",West
+"San Clemente, CA",West
+"Brisbane, CA",West
+"Rockville, MD",North East
+"Sarasota, FL",South East
+"Pensacola, FL",South East
+"Wichita, KS",Midwest
+"Kingstowne, VA",South East
+"Upton, NY",North East
+"Redlands, CA",West
+"Macdill AFB, FL",South East
+"Bothell, WA",West
+"Richmond, VA",South East
+"Skokie, IL",Central
+"Andover, MA",North East
+Ohio,Central
+"Farmington, CT",North East
+"Clearwater, FL",South East
+"Akron, OH",Central
+"New Bedford, MA",North East
+"Doral, FL",South East
+"Minnetonka, MN",Central
+"Winston-Salem, NC",South East
+"Sioux Falls, SD",Midwest
+"Deerfield Beach, FL",South East
+"Memphis, TN",South East
+"Fort Bragg, NC",South East
+"Pearl River, NY",North East
+"Gallatin, TN",South East
+"Tampa, FL",South East
+"Schofield Barracks, HI",West
+"Newport Beach, CA",West
+"Greenville, TX",Midwest
+"Omaha, NE",Midwest
